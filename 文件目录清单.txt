@@ -1,0 +1,56 @@
+卷 文档 的文件夹 PATH 列表
+卷序列号为 000000DA 0006:2257
+F:.
+│  文件目录清单.txt
+│  
+├─css 
+│      album.css
+│      bootstrap.css
+│      classtable.css
+│      commonForm.css
+│      gradetable.css
+│      homepage.css
+│      index.css
+│      
+├─icon
+│      login.png
+│      register.png
+│      return.png
+│      tourist.png
+│      
+├─js
+│      classtable.js
+│      gradetable.js
+│      register.js
+│      
+├─music
+│      Melancholy.mp3
+│      
+├─pages
+│      album.php
+│      classtable.php
+│      classtable_action.php
+│      deletegrade.php
+│      gradetable.php
+│      gradetable_action.php
+│      homepage.php
+│      index.php
+│      login.php
+│      login_action.php
+│      logout.php
+│      register.php
+│      register_action.php
+│      upload.php
+│      
+├─pic
+│      pic1.jpg
+│      pic2.jpg
+│      pic3.jpg
+│      pic_head.jpg
+│      
+└─upfile
+        20180111120103995.jpg
+        20180111120109122.jpg
+        20180111120125132.jpg
+        20180111120143490.png
+        

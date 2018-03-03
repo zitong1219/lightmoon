@@ -1,0 +1,30 @@
+body{
+	background-image: url(../pic/pic1.jpg);
+	background-size: 1550px 800px;
+	background-repeat: no-repeat;
+}
+#return{
+	position: relative;
+	height: 20px;
+}
+#title{
+	text-align: center;
+}
+label{
+	white-space: pre-wrap;
+}
+div.production_area{
+	border-style: dashed;
+	border-width: 1px;
+	margin: 0px 100px;
+	padding: 5px 5px;
+}
+p.production_area{
+	margin: 5px;
+	text-indent: 30px;
+	padding-top: 0px;
+}
+img{
+	margin-left: 50px;
+	height: 100px;
+}

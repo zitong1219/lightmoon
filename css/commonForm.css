@@ -1,0 +1,41 @@
+body{
+	background-image: url(../pic/pic3.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin:0;padding:0;
+	color: #960;
+}
+#return{
+	height: 20px;
+}
+#title{
+	text-align: center;
+	padding-top: 100px;
+	font-size: 80px;
+	line-height: 0px;
+	letter-spacing: 5px;
+}
+legend{
+
+	font-size: 20px;
+	font-family:  'Microsoft YaHei,微软雅黑,宋体'; 
+}
+div.form_area{
+	padding:50px 450px;
+	line-height: 40px;
+	vertical-align: middle;
+}
+fieldset{
+	padding: 15px;
+	background-color:#FFCC99;
+	text-align: center;
+	opacity: 0.75;
+	border-radius: 20px;		
+}
+.submit,.reset{
+	color: #960;
+	cursor: pointer;
+}
+.nosubmit{
+	cursor:text;
+}
